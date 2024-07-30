@@ -1,14 +1,6 @@
-# This repository is a backup of a twitter CLI clone, this was made for a university project.
+This repository is a backup of a twitter CLI clone, this was made for a university project.
 
-Collaborators:
-
-  Nathan Thai
-  
-  Muhammed Rayyan Rashid  
-
-  Kevin Frito Thekkudan
-  
-  Samrathjit Sandhu
+Collaborators included in design docs
 
 How to use MongoDB:
 1. Run `./setup.sh <port number> <JSON path>` on the command line where the port number is used to connect to the mongoDB server
